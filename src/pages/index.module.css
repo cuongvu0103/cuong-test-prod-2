@@ -1,0 +1,419 @@
+.image2Icon {
+  position: absolute;
+  top: 210px;
+  left: 293px;
+  width: 854px;
+  height: 533px;
+  object-fit: cover;
+}
+.connectingArtificialIntellig,
+.itsAllAbout {
+  text-decoration: none;
+  position: absolute;
+  top: 2111px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.itsAllAbout {
+  left: 755px;
+}
+.listingDesktopChild,
+.listingDesktopItem {
+  position: absolute;
+  top: 1915px;
+  left: 402px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.listingDesktopItem {
+  left: 734px;
+}
+.connectingArtificialIntellig1,
+.howModernRemote {
+  text-decoration: none;
+  position: absolute;
+  top: 3099px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.howModernRemote {
+  left: 755px;
+}
+.listingDesktopInner,
+.rectangleIcon {
+  position: absolute;
+  top: 2903px;
+  left: 402px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangleIcon {
+  left: 734px;
+}
+.helloWorldOr,
+.hereAreSome {
+  text-decoration: none;
+  position: absolute;
+  top: 1773px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.hereAreSome {
+  left: 755px;
+}
+.listingDesktopChild1,
+.listingDesktopChild2 {
+  position: absolute;
+  top: 1577px;
+  left: 734px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.listingDesktopChild2 {
+  left: 402px;
+}
+.clientsArePart,
+.hereAreSome1 {
+  text-decoration: none;
+  position: absolute;
+  top: 2761px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.hereAreSome1 {
+  left: 755px;
+}
+.listingDesktopChild3,
+.listingDesktopChild4 {
+  position: absolute;
+  top: 2565px;
+  left: 734px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.listingDesktopChild4 {
+  left: 402px;
+}
+.grannyGivesEveryone,
+.hereAreSome2 {
+  text-decoration: none;
+  position: absolute;
+  top: 1435px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.grannyGivesEveryone {
+  left: 755px;
+}
+.listingDesktopChild5,
+.listingDesktopChild6 {
+  position: absolute;
+  top: 1239px;
+  left: 402px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.listingDesktopChild6 {
+  left: 734px;
+}
+.clientsArePart1,
+.iBelieveLearning {
+  text-decoration: none;
+  position: absolute;
+  top: 2449px;
+  left: 423px;
+  line-height: 120%;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 262px;
+}
+.clientsArePart1 {
+  left: 755px;
+}
+.listingDesktopChild7,
+.listingDesktopChild8 {
+  position: absolute;
+  top: 2253px;
+  left: 402px;
+  width: 304px;
+  height: 176px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.listingDesktopChild8 {
+  left: 734px;
+}
+.aFewWords,
+.whyGhost {
+  position: absolute;
+  display: inline-block;
+}
+.aFewWords {
+  top: 787px;
+  left: 293px;
+  font-size: 54px;
+  line-height: 100%;
+  font-family: var(--font-new-york-extra-large);
+  width: 858px;
+}
+.whyGhost {
+  top: 981px;
+  left: 424px;
+  font-size: var(--font-size-xl);
+  line-height: 170%;
+  font-family: var(--font-sf-mono);
+  width: 592px;
+}
+.lineDiv {
+  position: absolute;
+  top: 1082px;
+  left: 399px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 642px;
+  height: 2px;
+}
+.allArticles {
+  position: absolute;
+  top: 1147px;
+  left: 608px;
+  font-size: 44px;
+  font-family: var(--font-new-york-extra-large);
+}
+.nordicRoseIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 395.83px;
+  height: 37.53px;
+}
+.blog {
+  left: 872.42px;
+}
+.about,
+.blog,
+.links,
+.projects {
+  position: absolute;
+  top: 6.46px;
+  letter-spacing: 0.12em;
+  line-height: 170%;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.about {
+  text-decoration: none;
+  left: 969.42px;
+  color: inherit;
+  cursor: pointer;
+}
+.links,
+.projects {
+  left: 1087.42px;
+}
+.projects {
+  left: 1194.42px;
+}
+.frameChild,
+.nordicRoseParent {
+  position: absolute;
+  top: 52.54px;
+  left: 63.58px;
+  width: 1315.42px;
+  height: 40.46px;
+}
+.frameChild {
+  top: 133px;
+  left: 935px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 68px;
+  height: 2px;
+}
+.frameItem,
+.frameParent {
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.frameParent {
+  left: 0;
+  background-color: var(--primary-contrast);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.16);
+  height: 133px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-new-york-small);
+}
+.frameItem {
+  left: 3px;
+  background-color: var(--color-black);
+  height: 464px;
+}
+.nordicRoseIcon1 {
+  position: absolute;
+  top: 151.12px;
+  left: 577.55px;
+  width: 290.91px;
+  height: 27.3px;
+}
+.nordicRoseCo {
+  margin: 0;
+}
+.nordicRoseCoContainer {
+  position: absolute;
+  top: 398px;
+  left: 633px;
+  font-size: var(--components-input-label-size);
+  line-height: 140%;
+  font-weight: 500;
+}
+.linkedin,
+.rss,
+.twitter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+  line-height: 170%;
+  font-weight: 500;
+}
+.linkedin,
+.rss {
+  left: 82px;
+}
+.rss {
+  left: 177px;
+}
+.twitterParent {
+  text-decoration: none;
+  position: absolute;
+  top: 307px;
+  left: 619px;
+  width: 209px;
+  height: 27px;
+  text-align: left;
+  color: inherit;
+}
+.digitalProductDesign,
+.distributedTeams,
+.remoteWork,
+.uxDesign {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.digitalProductDesign {
+  left: 0;
+  font-weight: 800;
+}
+.distributedTeams,
+.remoteWork,
+.uxDesign {
+  left: 664px;
+}
+.remoteWork,
+.uxDesign {
+  left: 329px;
+}
+.uxDesign {
+  left: 516px;
+  font-weight: 800;
+}
+.creativity {
+  left: 914px;
+  font-weight: 800;
+}
+.creativity,
+.growth,
+.strategy,
+.suspense {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.suspense {
+  left: 1207px;
+  font-weight: 800;
+}
+.growth,
+.strategy {
+  left: 1072px;
+}
+.growth {
+  left: 1351px;
+}
+.digitalProductDesignParent {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 1451px;
+  height: 28px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.loremIpsumDolor {
+  position: absolute;
+  top: 204px;
+  left: 479px;
+  line-height: 140%;
+  font-family: var(--font-new-york-small);
+  display: inline-block;
+  width: 488px;
+  height: 71px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 3316px;
+  left: -6px;
+  width: 1451px;
+  height: 464px;
+  font-size: var(--font-size-base);
+  color: var(--primary-contrast);
+  font-family: var(--font-sf-pro-text);
+}
+.listingDesktop {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100%;
+  height: 3780px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-display);
+}
